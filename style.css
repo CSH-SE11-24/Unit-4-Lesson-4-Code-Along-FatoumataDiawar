@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: burlywood;
+}
+p{
+  text-align: center;
+}
+
+#red{
+  color:red;
+}
+
+#orangey{
+  color: orange;
+}
+#Yello{
+  color: yellow;
+}
+
+#Gree{
+  color: green;
+}
+
+#Blu{
+  color: blue;
+}
+
+#Indi{
+  color: indigo;
+}
+
+#Violet{
+  color: violet;
+}
